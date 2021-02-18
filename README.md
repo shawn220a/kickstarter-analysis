@@ -6,6 +6,11 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Purpose
 
+The purpose of this activity was to take a set of data from the entertainment
+industry on how many successes, fails, and canceled events based on the funding
+of each project. After analyzing the data I was able to create charts based on
+the customers needs.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
