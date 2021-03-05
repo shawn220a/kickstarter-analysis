@@ -30,3 +30,13 @@ One of the major challenges of this activity was the lack of tutorials about exc
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+## Screenshots
+
+##### Theater Outcomes vs Launch
+
+![Theater_Outcomes_vs_Launch](./resources/Theater_Outcomes_vs_Launch.png)
+
+##### Outcomes vs Goals
+
+![Outcomes_vs_Goals](./resources/Outcomes_vs_Goals.png)
