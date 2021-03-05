@@ -15,6 +15,8 @@ the customers needs.
 
 ### Overview of the Analysis
 
+By going over the data I noticed that there were not very many outliers on the data and everything was very closely financed for the size of the project.
+
 ### Challenges and Difficulties Encountered
 
 One of the major challenges of this activity was the lack of tutorials about excel for Mac. Once I was able to learn how to navigate excel the activity went very smoothly.
