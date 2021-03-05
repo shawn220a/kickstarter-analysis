@@ -29,7 +29,11 @@ One of the major challenges of this activity was the lack of tutorials about exc
 
 - What can you conclude about the Outcomes based on Goals?
 
+  I can conclude that the chart shows that to be the best successful you need a goal set below 10,000. After that the outcomes go crazy and keep going back and forth on failing is higher vs success and vice versa.
+
 - What are some limitations of this dataset?
+
+  A limitation of this data set for the goals outcomes is that you don't have a very great understanding on why the chart goes crazy after 20,000.
 
 - What are some other possible tables and/or graphs that we could create?
 
