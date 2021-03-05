@@ -17,6 +17,8 @@ the customers needs.
 
 ### Challenges and Difficulties Encountered
 
+One of the major challenges of this activity was the lack of tutorials about excel for Mac. Once I was able to learn how to navigate excel the activity went very smoothly.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
