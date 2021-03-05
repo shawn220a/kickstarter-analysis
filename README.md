@@ -25,11 +25,15 @@ One of the major challenges of this activity was the lack of tutorials about exc
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+One conclusions that I can make from the outcomes based by launch date is that most successful theater productions are luanched from May to August. The other conclusion is that there is a slim chance that a theater production will be cancelled during the show's lifetime.
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+  - A chart to figure out what genres of shows are most successful in the theater area.
 
 ## Screenshots
 
