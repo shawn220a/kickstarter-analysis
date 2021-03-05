@@ -13,9 +13,7 @@ the customers needs.
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
+### Overview of the Analysis
 
 ### Challenges and Difficulties Encountered
 
